@@ -4,7 +4,7 @@ tmux: How to use tmux and cheat-sheet for tmux
 ![tmux cheatsheet guide](https://raw.githubusercontent.com/graphenessl/tmux-guide/master/terminal.png "tmux cheatsheet guide")
 
 # Description:
-**tmux** is a terminal multiplexer which is able to preserve terminal sessions. It is also able to split your terminal window horizontally or programatically.
+**tmux** is a terminal multiplexer which is able to preserve terminal sessions. It is also able to split your terminal window horizontally or vertically. It is very useful when you have a lot of customizations or processes running in a terminal session, however you need to logout. The sessions can be saved, and then restored.
 
 # Configuration:
 Make sure to create a configuration in your local folder (you can leave it blank for now, but later you can add your settings there):
