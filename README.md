@@ -1,4 +1,4 @@
-# tmux-guide
+# tmux guide: The tmux cheat-sheet
 tmux: How to use tmux and cheat-sheet for tmux
 
 ![tmux cheatsheet guide](https://raw.githubusercontent.com/graphenessl/tmux-guide/master/terminal.png "tmux cheatsheet guide")
